@@ -4,6 +4,8 @@ Two LabVIEW VIs that simulate a water tank: the level on a tank indicator rises 
 
 This repository is a project showcase, not a maintained library.
 
+![Visual abstract: a Stop button feeds two LabVIEW block diagrams. Water Tank 1 fills by 3 every 100 ms to above 90, then drains by 5 every 300 ms to below 10; Water Tank 2 uses one loop where a fill flag selects +3 or -2 every 100 ms. Each has a chart of the tank level rising and falling between 10 and 90, and both write to a tank indicator on the front panel](assets/visual-abstract.png)
+
 ## Demo
 
 <a href="https://youtu.be/iE63sWpYrFc"><img src="https://img.youtube.com/vi/iE63sWpYrFc/maxresdefault.jpg" width="100%" alt="Thumbnail of the water tank level control demo video in NI LabVIEW"></a>
