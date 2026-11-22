@@ -6,7 +6,9 @@ This repository is a project showcase, not a maintained library.
 
 ## Demo
 
-No recording yet. Running either VI shows the front panel with the tank indicator filling and draining, and a Stop button.
+<a href="https://youtu.be/iE63sWpYrFc"><img src="https://img.youtube.com/vi/iE63sWpYrFc/maxresdefault.jpg" width="100%" alt="Thumbnail of the water tank level control demo video in NI LabVIEW"></a>
+
+[Watch the demo on YouTube](https://youtu.be/iE63sWpYrFc) (August 2024). Running either VI shows the front panel with the tank indicator filling and draining, and a Stop button.
 
 ## Features
 
